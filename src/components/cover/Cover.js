@@ -5,7 +5,7 @@ export const Cover = () => {
   return (
     <div className="cover-container">
       <img className="pic" src={coverPic} alt="coverPic" />
-      <h1>Marcos Ulises P P</h1>
+      <h1>Marcos Ulises</h1>
       <p>Mechatronics | Developer | Tester</p>
     </div>
   );
